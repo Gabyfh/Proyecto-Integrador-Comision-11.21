@@ -1,7 +1,7 @@
 # Proyecto-Integrador-Comision-11.21
 Proyecto integrador de curso de programación full stack. 
 
-El sitio estará destinado a dar servicios de terapias online. Nuestros públicos objetivos serán, por un lado, todos los psicólogos que les interese formar parte de esta red y obtener trabajo remoto desde cualquier lugar del mundo. Por el otro, cualquier persona que requiera de un psicólogo en Argentina de forma remota.
+El sitio estará destinado a formar una comunidad en la cual el usuario pueda encontrar recomendaciones, venta de productos e inscripción en eventos relacionados con el vino, con la posibilidad de adquirir una membresía, mediante la cual podrá acceder a beneficios, descuentos y contenidos exclusivos.
 
 Referencias:
 https://comitewine.com.ar/
